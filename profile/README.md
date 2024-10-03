@@ -2,6 +2,7 @@
 
 Resources (WIP)
 
+* [Topics](https://github.com/ixpanteria/.github/discussions/1)
 * Link YouTube playlists
 * [Blog](https://ixpanteria.github.io/)
 * https://bit.ly/ixpanteria-checklist
