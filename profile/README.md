@@ -1,1 +1,1 @@
-👋 Un espacio para aprender y compartir las mejores prácticas en ciencia de datos.
+👋 A space to learn and share best practices in data science ([website]([url](https://ixpanteria.github.io/))).
