@@ -29,3 +29,76 @@ The person leading the project may also lead and present a topic, but contributi
 All the material for a series is kept in a single public repository, e.g., https://github.com/ixpanteria/testing/ with a global README in the root, and a README for each meeting in specific folders.
 
 The structure looked like this:
+
+```
+README.md
+|- meeting1/README.md
+|- meeting2/README.md
+|- ...
+```
+
+The global README of the series looked like this.
+
+```
+# Series Title
+
+The goal of this series is ...
+
+At the end of this series, you will know how to do things like:
+
+* ...
+* ...
+
+## Who is the audience?
+
+...
+
+## Why is it important?
+
+...
+
+## Program (tentative)
+
+### Meeting 1: Introduction
+
+This meeting will help you understand the most important aspects of this topic, and you can decide whether to attend the following meetings to dive deeper into the subject.
+
+Objectives:
+
+* ...
+* ...
+
+### Meeting 2: ...
+
+This meeting will help you ...
+
+Objectives:
+
+* ...
+* ...
+
+### Meeting 3: ...
+
+This meeting will help you ...
+
+Objectives:
+
+* ...
+* ...
+
+...
+
+## Resources
+
+* Material: Repo^1
+* Video: YouTube^2
+* Source: Book, tutorial, etc.^3
+```
+
+^1: Repo [ds.terminal](https://github.com/2degreesInvesting/ds.terminal?)  
+^2: YouTube playlist: [terminal](https://youtube.com/playlist?list=PLvgdJdJDL-AMFLYBl9TnX9D0PLWZdK1pN&si=5MHSZUBCa36ieIOm)  
+^3: [The Unix shell](https://swcarpentry.github.io/shell-novice/) by [The Carpentries](https://carpentries.org/).
+
+
+
+
