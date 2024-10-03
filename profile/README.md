@@ -3,4 +3,4 @@
 TODO
 
 * Link YouTube playlists
-* [Blog]([url](https://ixpanteria.github.io/))
+* [Blog](https://ixpanteria.github.io/)
