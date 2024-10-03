@@ -1,1 +1,3 @@
-👋 A space to learn and share best practices in data science ([website]([url](https://ixpanteria.github.io/))).
+👋 A space to learn and share best practices in data science
+
+[Website](https://ixpanteria.github.io/)
