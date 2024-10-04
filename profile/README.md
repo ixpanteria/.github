@@ -1,18 +1,18 @@
 # ixpanteria
 
-The goal of this project is to learn best practices in data science and to share them internally for professional development and externally to contribute to the data-science community.
+A space to learn and share best practices in data science.
 
 ## Values and workflow
 
 Here is how the values of this project guide the choice of tools and processes -- i.e. the workflow:
 
-* For maximum reach it uses English and the most popular tools and platorms, e.g. GitHub, YouTube, and LinkedIn to share code, vidoes, and annoncements.
-* To minimize preparation it focuses on content rather than looks, so presentations are made directly from markdown files.
-* The topics arise from internal needs or interests. You can propose and vote for topics [here](https://github.com/ixpanteria/.github/discussions/1).
-* The format evolved after several iterations. It requires relatively little effort to prepare, and no-effort to participation. Async participation is totally OK and possible via recordings.
-* Typically, each topic is covered in a series of 1-4 meetings, each ½ hour long (incliding 10' for open discussion).
-* The person leading the project may also lead and present a topic, but contributions from others are encouraged.
-* All the material for a series is kept in a single public repository, e.g., https://github.com/ixpanteria/testing/ with a global README in the root, and a README for each meeting in specific folders.
+* To maximize reach, most content is in English and the tools and platforms are the most popular in the data-science, e.g. GitHub, YouTube, and LinkedIn to share code, vidoes, and annoncements.
+* To minimize preparation and avoid duplication the presentations are mostly made directly from markdown files.
+* To maximize simplicity the topics are selected by internal consultation -- not by majority or concensus.
+* To maximize accessibility, async participation is totally OK, and possible via recordings.
+* To maximize attention and participation, each meetup lasts no more than 1/2 hour including at least 10' for live discussion.
+* To maximize responsability, each series of meetups is led by a single person, but may deleate the responsability, and is encouraged to invite (mainly internal) contributors.
+* To maximize simplicity, discoverability, and consistency, each series has all materials in a single, public repository based on a template.
 
 ## Resources
 
