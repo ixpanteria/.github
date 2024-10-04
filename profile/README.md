@@ -19,7 +19,7 @@ Here is how the values of this project guide the choice of tools and processes -
 * Project profile: https://github.com/ixpanteria/.github/profile/README.md
 * YouTube channel: https://youtube.com/@ixpanteria
 * Project blog: https://ixpanteria.github.io/
-* Series template (adapt if 1-meetup only): https://github.com/ixpanteria/template
+* Meetup-series template (adapt if 1-meetup only): https://github.com/ixpanteria/template
 * Meetup example: https://github.com/ixpanteria/meta
 * Meetup checklist: https://github.com/ixpanteria/meta/issues/2
 * Meetup topics: https://github.com/ixpanteria/meta/discussions/1
